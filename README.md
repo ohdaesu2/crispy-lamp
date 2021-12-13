@@ -1,2 +1,2 @@
 # crispy-lamp
-git study
+instagram clone coding
